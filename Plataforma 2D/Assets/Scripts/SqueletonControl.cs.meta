@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c1a43c0091b9e694e96b45a111ad82ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flecha: {fileID: 6694021285317989606, guid: cbc8f600b4cb1bd43a698b6eafa5bbc8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
